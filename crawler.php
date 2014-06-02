@@ -6,6 +6,7 @@ $page_number=pageNumberGet();
 var_dump($page_number);
 //exit;
 
+
 //url_data.txtの最新のurlをとる
 //$last_url=getLastUrl();
 //var_dump($last_url);
