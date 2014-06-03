@@ -6,8 +6,6 @@ $url = 'http://aucfan.com/article/?paged=';
 
 $page_number=pageNumberGet();
 var_dump($page_number);
-//exit;
-
 
 
 /更新分取得
