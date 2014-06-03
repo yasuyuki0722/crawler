@@ -9,6 +9,7 @@ var_dump($page_number);
 //exit;
 
 
+
 /更新分取得
 $url_array=getLink($url, $page_number);
 //inputUrlData($url_array);
